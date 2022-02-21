@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wejunguk&layout=compact&theme=swift)
 <br/><br/>
 
-## 📌 Get it touch
+## 📌 Get in touch
 💻 : https://uke-coding.tistory.com <br/>
 💌 : uk20915u@gmail.com
 <br/><br/>
