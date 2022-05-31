@@ -10,8 +10,8 @@
 
 ## ✍ Project
 - [HappyShare](https://github.com/wejunguk/happy-share)
-- [minipms](https://github.com/wejunguk/uk2_study/tree/main/mini-pms)
-- [JSP board](https://github.com/wejunguk/uk2_study/tree/main/BBS/src/main)
+- [miniPMS](https://github.com/wejunguk/uk2_study/tree/main/mini-pms)
+- [Board](https://github.com/wejunguk/uk2_study/tree/main/BBS/src/main)
 <br/><br/>
 
 ## &#x1f4c8; GitHub Stats
